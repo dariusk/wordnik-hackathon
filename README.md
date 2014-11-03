@@ -3,7 +3,7 @@ wordnik-hackathon
 
 The Wordnik / Bot Summit Hackathon
 
-For more information, see the website (coming soon).
+For more information, see [the website](http://tinysubversions.com/stuff/wordnik-hackathon/).
 
 ## When is this?
 
